@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Dan\\Documents\\_School\\C301\\LabFeb06\\lonelyTwitter-elasticsearch\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-w480dp-v13\\values-w480dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Dan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-18.0.0.aar\\46aeba5d28486a504fe5070588cb3929\\res\\values-w480dp\\values.xml",
+                    "from": {
+                        "startLines": "4,6,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "175,357,548",
+                        "endColumns": "61,71,60",
+                        "endOffsets": "232,424,604"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,117,189",
+                        "endColumns": "61,71,60",
+                        "endOffsets": "112,184,245"
+                    }
+                }
+            ]
+        }
+    ]
+}
